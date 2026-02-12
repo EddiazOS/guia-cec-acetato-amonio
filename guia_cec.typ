@@ -159,7 +159,7 @@ Esta guía describe el procedimiento para la determinación de la *CEC efectiva*
 
 + *Fenol*: Grado analítico
 + *Hipoclorito de sodio (NaOCl)*: Solución al 5-12%
-+ *Nitroprusiato de sodio (Na#sub[2][Fe(CN)#sub[5]NO]·2H#sub[2]O)*: Grado analítico
++ *Nitroprusiato de sodio (Na#sub[2] [Fe(CN)#sub[5]NO]·2H#sub[2]O)*: Grado analítico
 + *Hidróxido de sodio (NaOH)*: Grado analítico
 + *Citrato de sodio tribásico dihidratado*: Grado analítico
 

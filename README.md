@@ -23,6 +23,7 @@ Este repositorio contiene una guía de laboratorio profesional para la **determi
 .
 ├── guia_cec.typ          # Documento principal en Typst
 ├── bibliografia.bib      # Referencias bibliográficas en formato BibTeX
+├── bibliografia.pdf      # Documento PDF compilado de la guía
 └── README.md             # Este archivo
 ```
 
